@@ -2,7 +2,7 @@
 
 ##### A website that allows two players to play Tic Tac Toe against each other. Users are allowed to choose the board size from 2X2 to 10X10. (9/16/15-9/17/15)
 
-#### By [Logan Wu](https//github.com/loganwuu), [Ian McKenney](https://github.com/IanMcKe) & [Steve Smietana](https://github.com/SSmietana)
+#### By [Logan Wu](https://github.com/loganwuu), [Ian McKenney](https://github.com/IanMcKe) & [Steve Smietana](https://github.com/SSmietana)
 
 ## Description
 
